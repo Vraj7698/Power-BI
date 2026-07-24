@@ -1,4 +1,5 @@
 # Data Jobs Dashboard 2.0 w/ Power BI
+▶️ [Watch the Dashboard Demo](/Data_Jobs_P2/data_job_video2.mp4)
 
 ## Introduction
 
