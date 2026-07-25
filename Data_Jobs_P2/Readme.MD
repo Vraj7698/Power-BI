@@ -42,3 +42,9 @@ This page acts as your concise mission control for the data job market. It showc
 
 This updated dashboard (Version 2.0) showcases Power BI's ability to transform extensive job posting data into a powerful, streamlined tool for career analysis. It empowers **Job Seekers, Job Transitioners, and Job Swappers** by allowing them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.
 
+---
+
+## 🔗 GitHub Repository
+
+⭐ **Explore the complete project here:**  
+**GitHub:** https://github.com/Vraj7698/Power-BI/tree/main/Data_Jobs_P2
